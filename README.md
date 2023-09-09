@@ -22,7 +22,7 @@
 I am (to be) Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'm working towards being a software engineer.
 
-- :seedling: Exploring Data Structures and Astronomy!
+- :seedling: Exploring Data Structures(&Algorithms) and Astronomy!
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
